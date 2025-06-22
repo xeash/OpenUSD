@@ -466,8 +466,3 @@ Vicon Shogun
 `Vicon Shogun <https://www.vicon.com/software/shogun/>`_ is a motion capture application.
 
 --------
-
-Wizart
-======
-
-`Wizart DCC Platform <https://wizartsoft.com/>`_ is a USD based general purpose 3D application.
