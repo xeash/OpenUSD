@@ -393,6 +393,19 @@ supports `import of USDZ models <https://procreate.art/handbook/procreate/3d-pai
 
 --------
 
+ShapeFX
+=======
+
+ShapeFX Loki
+------------
+[`ShapeFX Loki`](https://shapefx.app/) is a lightweight 3D package focused on native OpenUSD editing.
+
+OpenDCC
+-------
+[`OpenDCC`](https://github.com/shapefx/OpenDCC) is an open-source application framework for building 3D tools with OpenUSD and Qt, tailored for the VFX and animation industry. ShapeFX Loki is built on top of OpenDCC.
+
+--------
+
 Shapr3D
 =======
 
